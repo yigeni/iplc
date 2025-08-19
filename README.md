@@ -33,7 +33,7 @@
 <!-- /wp:heading -->
 
 1、<a href="https://www.pqs.pw/aff.php?aff=250" target="_blank" rel="nofollow noopener">PQS（台湾iplc服务商）</a><br />
-推荐指数：★★★<br />
+推荐指数：★★★★<br />
 特点：无限流量，海外VPS，丰富线路选择，主机高端，价格偏贵。<br />
 优势：在日本、香港、台湾等地区拥有机房，但需要自己搭建。<br />
 详细参考介绍文章：<a href="https://www.yigeni.com/buy-1-iplc-dedicated-line-vds-server-for-fun/" target="_blank" rel="noopener">点击打开</a>
