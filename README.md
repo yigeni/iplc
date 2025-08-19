@@ -60,8 +60,6 @@
 综上，小编暂只推荐以上几家iplc专线节点厂商，如有其它iplc专线推荐，后面会再进行更新...
 
 最后，如何联系小编？可以关注以下方式:<br />
-Youtube频道：https://www.youtube.com/channel/UCuv__fsZmwcchm1RlqtpsXA/<br />
-电报频道：https://t.me/yigeni_group<br />
 电子邮箱Email：yigeni@yigeni.com<br />
 小编的电报TG：yigeni<br />
 所以，可以通过电报TG或电子邮箱Email联系小编，会第一时间回复大家的！
